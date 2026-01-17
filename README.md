@@ -1,4 +1,4 @@
-# Hi, I'm ST0N3 👋
+# Hi, I'm ST0N3
 
 I'm a backend developer passionate about Java, Spring Boot, REST APIs, and building scalable systems.
 
