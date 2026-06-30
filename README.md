@@ -1,5 +1,9 @@
 # Hi, I'm Rohit Kumar 👋
 
+![](https://komarev.com/ghpvc/?username=STONE-ROHIT&label=Profile+Views&color=0e75b6&style=for-the-badge)
+
+---
+
 I'm a full-stack developer with a strong competitive programming foundation, focused on building production-grade systems — from secure backend architecture and database design to deployed, real-world-integrated frontends.
 
 ---
