@@ -11,11 +11,17 @@ I'm a full-stack developer with a strong competitive programming foundation, foc
 ## Skills
 
 **Languages:** C++, TypeScript, JavaScript, HTML/CSS, SQL
+
 **Frameworks & Libraries:** React, Node.js, Express.js, Drizzle ORM, Chart.js
+
 **Databases:** PostgreSQL, Neon Serverless PostgreSQL
+
 **Auth & Integrations:** JWT Authentication, RBAC, Webhook Integration, Razorpay, GraphQL APIs, LLM APIs
+
 **Deployment & DevOps:** Vercel, Render, Git-based CI/CD
+
 **Developer Tools:** Git, Linux, Bash, VS Code, Postman
+
 **Concepts:** Data Structures & Algorithms, RESTful APIs, Chrome Extension Manifest V3, Monorepo Architecture, Rate Limiting
 
 ---
