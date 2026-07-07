@@ -18,7 +18,7 @@ I'm a full-stack developer with a strong competitive programming foundation, foc
 
 **Auth & Integrations:** JWT Authentication, RBAC, Webhook Integration, Razorpay, GraphQL APIs, LLM APIs
 
-**Deployment & DevOps:** Vercel, Render, Git-based CI/CD
+**Deployment & DevOps:** Vercel, Render, Neon
 
 **Developer Tools:** Git, Linux, Bash, VS Code, Postman
 
@@ -48,7 +48,7 @@ LeetCode Contest Rating: **1520**
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-iiitj/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/STONE-ROHIT)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/xx__STONE__xx/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://rohit-kumar-builds.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rohitkashyap30209@gmail.com)
 
