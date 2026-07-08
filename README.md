@@ -40,8 +40,8 @@ I'm a full-stack developer with a strong competitive programming foundation, foc
 
 ## 🏆 Competitive Programming
 
-1200+ problems solved across LeetCode, CodeChef, and Codeforces.
-LeetCode Contest Rating: **1520**
+1250+ problems solved across LeetCode, CodeChef, and Codeforces.
+LeetCode Contest Rating: **1721**
 
 ---
 
