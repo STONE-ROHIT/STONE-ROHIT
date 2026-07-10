@@ -1,4 +1,4 @@
-# Hi, I'm Rohit Kumar 👋
+# Hi, I'm Rohit Kumar
 
 ![](https://komarev.com/ghpvc/?username=STONE-ROHIT&label=Profile+Views&color=0e75b6&style=for-the-badge)
 
