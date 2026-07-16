@@ -43,7 +43,7 @@ I'm a full-stack developer with a strong competitive programming foundation, foc
 - **580+** problems solved on **LeetCode**
 - **LeetCode Rating:** **1789**
 - **Codeforces Rating:** **1292** *(Pupil)*
-- **CodeChef Rating:** **1497** *(2★)*
+- **CodeChef Rating:** **1542** *(2★)*
 
 --- 
 
