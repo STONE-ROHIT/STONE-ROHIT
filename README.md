@@ -28,11 +28,11 @@ I'm a full-stack developer with a strong competitive programming foundation, foc
 
 ## 🚀 Projects
 
-**[Creator Dashboard](https://github.com/STONE-ROHIT/creator-dashboard)** — Full-stack creator monetization platform with Razorpay webhook-verified payments, JWT-based role access control, and a split-stack deployment (Vercel + Render).
-🔗 [Live](https://creator-dashboard-wine.vercel.app/)
-
 **[LeetCode Analyzer](https://github.com/STONE-ROHIT/leetcode-analyzer)** — Full-stack submission analysis platform with automated correctness checks, complexity analysis, AI-powered Socratic hints, Judge0 integration, and PostgreSQL caching.
 🔗 [Live](https://leetcode-analyzer-client.vercel.app/)
+
+**[Creator Dashboard](https://github.com/STONE-ROHIT/creator-dashboard)** — Full-stack creator monetization platform with Razorpay webhook-verified payments, JWT-based role access control, and a split-stack deployment (Vercel + Render).
+🔗 [Live](https://creator-dashboard-wine.vercel.app/)
 
 **[CF Enhancer](https://github.com/STONE-ROHIT/cf-enhancer)** — Chrome extension that overlays rich analytics (rating history, weakness detection, submission heatmap) on Codeforces profiles using Chart.js.
 
@@ -42,7 +42,7 @@ I'm a full-stack developer with a strong competitive programming foundation, foc
 
 - **580+** problems solved on **LeetCode**
 - **LeetCode Rating:** **1789**
-- **Codeforces Rating:** **1292** *(Pupil)*
+- **Codeforces Rating:** **1404** *(Specialist)*
 - **CodeChef Rating:** **1542** *(2★)*
 
 --- 
